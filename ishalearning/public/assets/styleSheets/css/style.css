@@ -1,0 +1,25 @@
+.brn{
+      border: 1px solid blue
+      
+}
+.cbox{
+      border: 3px solid red;
+      height: 500px;
+}
+.ibox{
+      background-color:aquamarine;
+      height: 80px;
+}
+.hbox{
+      background-color: darkseagreen;
+      height: 35px;
+}
+.bak{
+
+      height: 200px;
+      background-color: black;
+}
+.org{
+    color: orangered
+      
+}
