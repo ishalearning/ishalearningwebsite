@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "ishalearning",
+    "target":"main",
     "public": "public",
     "ignore": [
       "firebase.json",

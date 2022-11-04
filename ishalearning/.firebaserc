@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "isha-learning"
+  },
+  "targets": {
+    "isha-learning": {
+      "hosting": {
+        "main": [
+          "ishalearning"
+        ]
+      }
+    }
   }
 }
